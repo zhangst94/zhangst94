@@ -21,6 +21,8 @@ https://zhangst94.github.io
 ### 认证
 
 Certificated Kubernetes Administrator（Kubernetes CKA）
+Certified Kubernetes Security Specialist（Kubernetes CKS）
+
 
 
 
